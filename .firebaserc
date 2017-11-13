@@ -1,5 +1,6 @@
 {
   "projects": {
-    "Meyer-p1": "matt-meyer-p1-project"
+    "Meyer-p1": "matt-meyer-p1-project",
+    "default": "matt-meyer-p1-project"
   }
 }
