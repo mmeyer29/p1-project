@@ -38,6 +38,7 @@ h1{
   margin-bottom: 0rem;
 }
 .lines{
+  height: 70vh;
   display: flex;
   flex-direction: row;
   justify-content: center;
